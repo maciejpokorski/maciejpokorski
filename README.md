@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maciejpokorski
 - 👀 I’m interested in DevOps, Cloud, Javascript, Linux, Python, Laravel
-- 🌱 I’m currently learning Azure DevOps
+- 🌱 I’m currently learning Azure DevOps & Python
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me maciekpokorski@gmail.com
 
